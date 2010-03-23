@@ -1,5 +1,5 @@
 ---
-abstract: 'Template Toolkit wrapper for Dancer'
+abstract: 'Template::Sandbox wrapper for Dancer'
 author:
   - 'Sam Graham <libdancer-template-templatesandbox-perl@illusori.co.uk>'
 build_requires:
@@ -16,10 +16,10 @@ name: Dancer-Template-TemplateSandbox
 provides:
   Dancer::Template::TemplateSandbox:
     file: lib/Dancer/Template/TemplateSandbox.pm
-    version: 0.99_01
+    version: 0.99_02
 requires:
   Dancer: 0
-  Template::Sandbox: 1.02_01
+  Template::Sandbox: 1.03
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.99_01
+version: 0.99_02

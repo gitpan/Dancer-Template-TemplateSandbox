@@ -14,13 +14,13 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 b3139f1896c04adf8b04ba33205b3748c54f374f Build.PL
-SHA1 03420e65fe964ad38c5c4889f1be4ee7214717ce Changes
+SHA1 ad72b3b4de7f6ccb9df5a1860de7659590f57343 Build.PL
+SHA1 e46a08f98004dab3609a4d485a39aca6da12e7c0 Changes
 SHA1 138baa522200d979fd4aece2911d3afecfc7b1bc MANIFEST
-SHA1 e8eec9d0ae95a9359aa9e67deb934ad2bd22662a META.yml
+SHA1 93b2b397065a5a15503a00c8e7f2612d55aeda9a META.yml
 SHA1 07eb319012af5b5d458ea5b3dddf73a5ae941be1 README
 SHA1 a5737656e6ec41492a449c9ea109d407b9299e4d ignore.txt
-SHA1 e211b027e448abab22c5f5bd7385e9eb846afb74 lib/Dancer/Template/TemplateSandbox.pm
+SHA1 e1d14a4f0e6ba4f074e4499b21a17ef31e6bd9b4 lib/Dancer/Template/TemplateSandbox.pm
 SHA1 11b5cbf78928b680c8a9ed5aa9273f79b82be497 t/00-load.t
 SHA1 3cd4e50928b0ae2274c2bca153f69267be5509ce t/05_template_sandbox.t
 SHA1 eb15b92fd15eff83c879fa00a943f7dd59c353c1 t/index.txt
@@ -35,7 +35,7 @@ SHA1 8c57f2b89f12c54fd975c39ded1c100796ab5f17 xt/release/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAkujhMsACgkQk0asf7iG0tTczQCeOZNBpaRF7XYUcJkcEauyTEgn
-u7wAn3KanpIZAnzaeOGqDaFu+mcXdwzs
-=Qmu/
+iEYEARECAAYFAkuozi0ACgkQk0asf7iG0tSehQCfXGFEtgzTX+ka2GZFPytV0HAI
+4FsAoMB7UjndcWZJrt6Jf4WlaXeUYY19
+=pZ7E
 -----END PGP SIGNATURE-----
